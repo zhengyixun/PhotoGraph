@@ -1,0 +1,9 @@
+{
+  "main": "index.html",
+  "name": "index",
+  "description": "电子班牌",
+  "version": "0.2.0",
+  "window": {
+    "kiosk": true
+  }
+}
