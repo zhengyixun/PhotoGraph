@@ -1,4 +1,4 @@
-# photograph 
+# photograph 1.2.0
 
 ## public文件夹下的package.json 是使用nw打包的配置文件
 ### 该项目基于nw封装成基于ubuntu的arm应用 
