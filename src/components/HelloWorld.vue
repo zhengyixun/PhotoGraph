@@ -251,6 +251,7 @@
                         /**
                          * @TODO 下载头像到本地
                          * **/
+
                         let data = JSON.parse(e.data.d);
                         console.log(data);
                         this.subTitle = data.subtitle;
